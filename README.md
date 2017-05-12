@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+HI!
+
+I'm sooyeon.
+I am learning GIT
